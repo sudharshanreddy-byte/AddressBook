@@ -13,7 +13,11 @@ typedef struct {
     Contact contacts[MAX_CONTACTS];
     int contactCount;
 } AddressBook;
+
 //hello sandy good morning
+
+//hi sudharshan reddy, good morning
+
 void createContact(AddressBook *addressBook);
 void searchContact(AddressBook *addressBook);
 void editContact(AddressBook *addressBook);
@@ -23,6 +27,7 @@ void initialize(AddressBook *addressBook);
 void saveContactsToFile(AddressBook *AddressBook);
 
 #endif
+
 
 
 
