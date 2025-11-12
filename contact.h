@@ -14,7 +14,7 @@ typedef struct {
     int contactCount;
 } AddressBook;
 
-//hello sandy good morning
+//hello sand good morning
 
 //hi sudharshan reddy, good morning
 
@@ -27,6 +27,7 @@ void initialize(AddressBook *addressBook);
 void saveContactsToFile(AddressBook *AddressBook);
 
 #endif
+
 
 
 
