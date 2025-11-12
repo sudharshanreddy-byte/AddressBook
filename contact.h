@@ -1,6 +1,6 @@
 #ifndef CONTACT_H
 #define CONTACT_H
-//sudharshan checking whether it is working or not
+
 #define MAX_CONTACTS 100
 
 typedef struct {
@@ -23,4 +23,5 @@ void initialize(AddressBook *addressBook);
 void saveContactsToFile(AddressBook *AddressBook);
 
 #endif
+
 
